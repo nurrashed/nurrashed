@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+Hi, I'm Nur Mohammad Rashed, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<a href="https://www.linkedin.com/in/nur-mohammad-rashed-071a2316/">
+  <img align="left" alt="Rashed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <!--
 **nurrashed/nurrashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
