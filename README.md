@@ -35,26 +35,26 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Website_gambar.jpg" width="35"/></br>Website</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Website_gambar.jpg" width="35"/></br>Website</b></td>
+      <td><b>🛎 Issues</b></td>      
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/nurrashed/SCSS-Project-1"><b>SCSS-Project</b></a></td>
+      <td><a href="https://outdoorwebsite.netlify.app/"><b>Outdoor</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://outdoorwebsite.netlify.app/"><b>Outdoor</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41" /></td>      
     </tr>
 	<tr>
       <td><a href="https://github.com/nurrashed/Pig-Game"><b>Pig Game(Vanilla JS)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Pig-Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Pig-Game?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Pig-Game?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://rashed-pig-game.netlify.app/"><b>Pig Game</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
     </tr>
       </tbody>
 </table>
