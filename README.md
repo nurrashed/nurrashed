@@ -49,14 +49,21 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41" /></td>      
     </tr>
-	<tr>
+    <tr>
       <td><a href="https://github.com/nurrashed/Pig-Game"><b>Pig Game(Vanilla JS)</b></a></td>
       <td><a href="https://rashed-pig-game.netlify.app/"><b>Pig Game</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Pig-Game?style=flat-square&labelColor=343b41" /></td>
     </tr>
-      </tbody>
+    <tr>
+      <td><a href="https://github.com/nurrashed/Guess-my-number-game"><b>Number Guessing Game(Vanilla JS)</b></a></td>
+      <td><a href="https://guess-my-number-app.netlify.app/"><b>Guess My Number</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Guess-my-number-game?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Guess-my-number-game?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Guess-my-number-game?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+   </tbody>
 </table>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
