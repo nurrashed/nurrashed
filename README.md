@@ -38,7 +38,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      
+      <td><b><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Website_gambar.jpg" width="35"/></br>Website</b></td>
     </tr>
   </thead>
   <tbody>
@@ -47,7 +47,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://outdoorwebsite.netlify.app/"><b>Outdoor</b></a></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/nurrashed/Pig-Game"><b>Pig Game(Vanilla JS)</b></a></td>
