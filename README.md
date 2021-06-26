@@ -65,7 +65,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
     </tr>
     <tr>
       <td><a href="https://github.com/nurrashed/starwar-app-node"><b>Starwar(Vanilla JS, API calling)</b></a></td>
-      <td><a href="https://my-star-wars-app.netlify.app/"><b>Guess My Number</b></a></td>
+      <td><a href="https://my-star-wars-app.netlify.app/"><b>Starwar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/starwar-app-node?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/starwar-app-node?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/starwar-app-node?style=flat-square&labelColor=343b41" /></td>
