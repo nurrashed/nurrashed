@@ -30,7 +30,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
-<h2>Open source projects</h2>
+<h2>My projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -38,7 +38,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      
     </tr>
   </thead>
   <tbody>
