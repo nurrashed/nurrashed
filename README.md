@@ -44,10 +44,10 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   <tbody>
     <tr>
       <td><a href="https://github.com/nurrashed/SCSS-Project-1"><b>SCSS-Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
