@@ -66,9 +66,12 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   </tbody>
 </table>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h2>Where to find me</h2>
 <p><a href="https://github.com/nurrashed" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nur-mohammad-rashed-071a2316/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+
 
 <!--
 **nurrashed/nurrashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
