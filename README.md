@@ -147,6 +147,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/TodoApp-Angular-service-observables?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/TodoApp-Angular-service-observables?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/nurrashed/KidzSchoolwebsite-HTML-CSS-JavaScript"><b>KidzSchoolwebsite(Using HTML,CSS&JavaScript)</b></a></td>
+      <td><a href="https://kidzschool-css-html-javascript.netlify.app/"><b>KidzSchool</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/KidzSchoolwebsite-HTML-CSS-JavaScript?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/KidzSchoolwebsite-HTML-CSS-JavaScript?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/KidzSchoolwebsite-HTML-CSS-JavaScript?style=flat-square&labelColor=343b41" /></td>
+    </tr>
    </tbody>
 </table>
 
