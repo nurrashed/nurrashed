@@ -128,7 +128,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
     </tr>
     <tr>
       <td><a href="https://github.com/nurrashed/LaundropCMS_local"><b>Laundrop(using ReactNative)</b></a></td>
-      <td><a href="https://laundropblog.netlify.app/blog"><b>Laundrop</b></a></td>
+      <td><a href="https://laundropblog.netlify.app/"><b>Laundrop</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/LaundropCMS_local?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/LaundropCMS_local?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/LaundropCMS_local?style=flat-square&labelColor=343b41" /></td>
