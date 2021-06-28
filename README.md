@@ -140,6 +140,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Webshop-using-react-and-typescript?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Webshop-using-react-and-typescript?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/nurrashed/TodoApp-Angular-service-observables"><b>TodoApp(using Angular)</b></a></td>
+      <td><a href="#"><b>Website not available</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/TodoApp-Angular-service-observables?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/TodoApp-Angular-service-observables?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/TodoApp-Angular-service-observables?style=flat-square&labelColor=343b41" /></td>
+    </tr>
    </tbody>
 </table>
 
