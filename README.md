@@ -70,6 +70,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/starwar-app-node?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/starwar-app-node?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/nurrashed/Black-Jack"><b>Black-Jack(Vanilla JS, API calling)</b></a></td>
+      <td><a href="https://myblackjack.netlify.app/"><b>Black-Jack</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Black-Jack?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Black-Jack?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Black-Jack?style=flat-square&labelColor=343b41" /></td>
+    </tr>
    </tbody>
 </table>
 
