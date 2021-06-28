@@ -77,6 +77,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Black-Jack?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Black-Jack?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/nurrashed/BioBio"><b>BioBio(Only HTML and CSS)</b></a></td>
+      <td><a href="https://mybiobio.netlify.app/"><b>BioBio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/BioBio?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/BioBio?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/BioBio?style=flat-square&labelColor=343b41" /></td>
+    </tr>
    </tbody>
 </table>
 
