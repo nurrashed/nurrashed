@@ -91,6 +91,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/ToDo?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/ToDo?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/nurrashed/BudgetApp-JavaScript"><b>Budget App(Vanilla JS)</b></a></td>
+      <td><a href="https://budget-app-rashed.netlify.app/"><b>Budget App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Budget App?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Budget App?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Budget App?style=flat-square&labelColor=343b41" /></td>
+    </tr>
    </tbody>
 </table>
 
