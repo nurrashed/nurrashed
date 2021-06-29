@@ -43,6 +43,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/nurrashed/Banking"><b>Banking(Using HTML,CSS & JavaScript)</b></a></td>
+      <td><a href="https://my-banking-site.netlify.app/"><b>Banking Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Banking?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/Banking?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/Banking?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nurrashed/SCSS-Project-1"><b>SCSS-Project</b></a></td>
       <td><a href="https://outdoorwebsite.netlify.app/"><b>Outdoor</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/SCSS-Project-1?style=flat-square&labelColor=343b41"/></td>
