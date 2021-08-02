@@ -43,6 +43,13 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/nurrashed/weather-app"><b>Weather app(Using HTML,CSS & JavaScript)</b></a></td>
+      <td><a href="https://nur-weather-app.netlify.app/"><b>Weather App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/weather-app?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrashed/weather-app?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrashed/weather-app?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nurrashed/Maping"><b>Maping(Using HTML,CSS & JavaScript)</b></a></td>
       <td><a href="https://my-maping.netlify.app/"><b>Maping</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/Maping?style=flat-square&labelColor=343b41" /></td>
