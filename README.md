@@ -42,8 +42,7 @@ I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend develope
     </tr>
   </thead>
   <tbody>
-  
-    <tr>
+  <tr>
       <td><a href="https://github.com/nurrashed/MovieDatabase"><b>Movie Database(Using HTML,CSS, Material UI and React )</b></a></td>
       <td><a href="https://mymoviesearchapp.netlify.app/"><b>Mivie search App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrashed/MovieDatabase?style=flat-square&labelColor=343b41" /></td>
