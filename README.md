@@ -2,10 +2,6 @@
 
 I'm Nur Mohammad Rashed, I am a passionate and certified front-end developer with two years of professional experience in leading and managing frontend projects in the Fintech industry.
 
-<a href="https://www.linkedin.com/in/nur-mohammad-rashed-071a2316/">
-  <img align="left" alt="Rashed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </br>
 <h2>Things I can</h2>
 <p>
