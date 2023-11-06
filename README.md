@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
-I'm Nur Mohammad Rashed, a passionate, creative, and certified frontend developer with 3+ years of professional experience as a network engineer from Stockholm, Sweden.
+I'm Nur Mohammad Rashed, I am a passionate and certified front-end developer with two years of professional experience in leading and managing frontend projects in the Fintech industry.
 
 <a href="https://www.linkedin.com/in/nur-mohammad-rashed-071a2316/">
   <img align="left" alt="Rashed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
